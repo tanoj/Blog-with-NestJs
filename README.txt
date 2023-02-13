@@ -1,0 +1,1 @@
+This is Blog application using nestJs, Angular, PostGres, typeORM
